@@ -9,6 +9,12 @@ Aufgaben
 In diesem Issue erhältst du weniger Hilfestellung als im ersten. Falls du nicht weiterkommst, kannst du auch in das erste Issue auf der Closed Issues Seite reinschauen. Führe folgende Schritte aus
 
 ## Eigenschaften
+* Item 1
 * Item 2
-* Item 2a 
-* Item 2b
+  * Item 2a 
+  * Item 2b
+* Item 3
+
+As Grace Hopper said:
+> I’ve always been more interested 
+> in the future than in the past.
